@@ -4,7 +4,7 @@
 	"main": "src/index.html",
 	"license": "MIT",
 	"scripts": {
-		"start": "parcel src/index.html -p 3000 --open",
+		"start": "parcel src/index.html -p 2222 --open",
 		"build:parcel": "parcel build src/index.html",
 		"build": "npm run clean && npm run build:parcel",
 		"clean": "rm -rf dist/*"
